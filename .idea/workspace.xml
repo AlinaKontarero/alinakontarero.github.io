@@ -39,6 +39,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26S7vUYBVS71zQHKh9UCCGWztTK" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -55,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647405365291</updated>
-      <workItem from="1647405366440" duration="730000" />
+      <workItem from="1647405366440" duration="1128000" />
+      <workItem from="1647406559815" duration="119000" />
     </task>
     <servers />
   </component>
