@@ -186,10 +186,10 @@
 }
 
 /**************************/
-/* HOW IT WORKS SECTION */
+/* Developer Section */
 /**************************/
 
-.section-how {
+.section-developer {
     padding: 9.6rem 0;
 }
 
@@ -248,10 +248,10 @@
 }
 
 /**************************/
-/* MEALS SECTION */
+/* Mentor Section */
 /**************************/
 
-.section-meals {
+.section-mentor {
     padding: 9.6rem 0;
 }
 
@@ -334,10 +334,10 @@
 }
 
 /**************************/
-/* TESTIMONIALS SECTION */
+/* Cloud Enthusiast Section */
 /**************************/
 
-.section-testimonials {
+.section-cloud-enthusiast {
     background-color: #fdf2e9;
     display: grid;
     grid-template-columns: 55fr 45fr;
